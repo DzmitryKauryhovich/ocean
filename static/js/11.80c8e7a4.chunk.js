@@ -1,0 +1,2 @@
+(this["webpackJsonpocean-ui"]=this["webpackJsonpocean-ui"]||[]).push([[11],{215:function(e,n,t){"use strict";t.r(n);var c=t(0),a=t.n(c),u=t(141),s=t(177);n.default=function(){return a.a.createElement(u.b,null,a.a.createElement(s.c,{segmentId:"content"}))}}}]);
+//# sourceMappingURL=11.80c8e7a4.chunk.js.map
